@@ -1,0 +1,4 @@
+mmdetection-main/word_dirs/cascade_rcnn/best_coco_bbox_mAP_epoch_12.pth filter=lfs diff=lfs merge=lfs -text
+mmdetection-main/word_dirs/faster_rcnn/best_coco_bbox_mAP_epoch_13.pth filter=lfs diff=lfs merge=lfs -text
+mmdetection-main/word_dirs/retinanet/best_coco_bbox_mAP_epoch_13.pth filter=lfs diff=lfs merge=lfs -text
+mmdetection-main/word_dirs/tood/best_coco_bbox_mAP_epoch_9.pth filter=lfs diff=lfs merge=lfs -text
